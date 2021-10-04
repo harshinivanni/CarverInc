@@ -1,0 +1,32 @@
+document:
+	id
+	title
+	detail
+	clientid
+	approve status
+	datetime
+	delete
+
+tags:
+	id
+	document_id
+	tagname
+
+client:
+	id
+	name
+	email
+	password
+	status
+
+search_list:
+	id
+	date
+	name
+	status (success/fail)
+
+admin:
+	id
+	name
+	email
+	password
